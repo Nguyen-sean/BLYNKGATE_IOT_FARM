@@ -10,7 +10,6 @@ Dự án này trình bày cách đọc giá trị nhiệt độ và độ ẩm b
 - [Sơ đồ mạch](#sơ-đồ-mạch)
 - [Cài đặt](#cài-đặt)
 - [Sử dụng](#sử-dụng)
-- [Giấy phép](#giấy-phép)
 
 ## Tổng quan
 
