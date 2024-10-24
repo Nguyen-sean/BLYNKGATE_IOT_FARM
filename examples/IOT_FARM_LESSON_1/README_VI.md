@@ -2,7 +2,6 @@
 # Dự án IoT: Giám sát Nhiệt độ và Độ ẩm với Arduino Uno và BlynkGate
 
 Dự án này trình bày cách đọc giá trị nhiệt độ và độ ẩm bằng cảm biến **DHT11** và gửi dữ liệu lên **Blynk Cloud** bằng module **BlynkGate**. Dự án sử dụng **Arduino Uno** và cho phép giám sát điều kiện môi trường từ xa.
-
 ## Mục lục
 - [Tổng quan](#tổng-quan)
 - [Yêu cầu phần cứng](#yêu-cầu-phần-cứng)
