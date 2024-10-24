@@ -47,7 +47,7 @@ Trong dự án này, chúng ta sẽ:
 
 ## Cài đặt
 
-1. **Kết nối Arduino Uno với cảm biến DHT11/22** và **module BlynkGate** theo sơ đồ mạch.
+1. **Kết nối Arduino Uno với cảm biến DHT11** và **module BlynkGate** theo sơ đồ mạch.
 2. **Cài đặt các thư viện cần thiết**:
    - Mở Arduino IDE.
    - Vào **Tools > Manage Libraries** và tìm kiếm `MAKERLABVN`.
@@ -59,7 +59,7 @@ Trong dự án này, chúng ta sẽ:
 ```cpp
 /*
   Tiêu đề:  Demo Nhiệt độ và Độ ẩm
-  Mô tả: Đọc giá trị từ cảm biến DHT11/22 và gửi lên Blynk mỗi 5 giây.
+  Mô tả: Đọc giá trị từ cảm biến DHT11 và gửi lên Blynk mỗi 5 giây.
               - Virtual Pin V1 (cho nhiệt độ)
               - Virtual Pin V2 (cho độ ẩm)
 */
