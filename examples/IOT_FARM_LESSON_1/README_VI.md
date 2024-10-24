@@ -145,7 +145,7 @@ BLYNK_WRITE_DEFAULT() {
 4. **Lấy thông tin từ Blynk Cloud**:
    - Truy cập [Blynk Cloud](https://blynk.cloud/) và tạo một template mới.
    - Sao chép `BLYNK_TEMPLATE_ID`, `BLYNK_TEMPLATE_NAME`, và `BLYNK_AUTH_TOKEN`.
-   - Thay thế các giá trị placeholder trong mã bằng thông tin của bạn.
+
    
 5. **Tải code lên Arduino** và đảm bảo nó kết nối với Wi-Fi.
 
